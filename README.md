@@ -3,7 +3,7 @@ Greetings! You have landed here for some reason but anyways.
 
 **OVERVIEW**
 * I'm Milkhype the owner of this repository.
-* 13 y/o, from the Philippines.
+* I'm from the Philippines.
 * Planning to code whatever the frick is a bot and learning from it.
 
 **PROJECTS**
