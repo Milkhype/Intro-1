@@ -7,7 +7,7 @@ Greetings! You have landed here for some reason but anyways.
 * Planning to code what is a bot and learning from it.
 
 **PROJECTS**
-* Bread - I still dont know am i gonna do with that bot but its a discord bot that does absolutely nothing.
+* Bread - A multi-purpose discord bot that do multi-purpose stuff like being a multi-purpose discord bot and so much more!
 
 **SOCIALS**
 * Discord - milkhype235#4732
