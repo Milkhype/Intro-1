@@ -2,9 +2,13 @@
 Greetings! You have landed here for some reason but anyways. 
 
 **OVERVIEW**
-* I'm Milkhype the owner of this repository.
-* I'm from the Philippines.
-* Planning to code what is a bot and learning from it.
+* `{
+       "id": "624593499118895105:,
+       "name": "Milkhype",
+       "location": "Philippines",
+       "age": "undefined",
+       "position": "Owner",
+}`
 
 **PROJECTS**
 * Bread - A multi-purpose discord bot that do multi-purpose stuff like being a multi-purpose discord bot and so much more!
