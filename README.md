@@ -12,9 +12,8 @@ Greetings! You have landed here for some reason but anyways.
 
 
 **PROJECTS**
-* `{`
-*     "[Bread](https://github.com/Milkhype/Bread-1)": "A multi-purpose discord bot that do multi-purpose stuff like being a multi-purpose discord bot and so much more!",
-* `}`
+*   "[Bread](https://github.com/Milkhype/Bread-1)": "A multi-purpose discord bot that do multi-purpose stuff like being a multi-purpose discord bot and so much more!",
+
 
 **SOCIALS**
 * `{`
