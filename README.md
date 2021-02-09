@@ -15,14 +15,14 @@ Greetings! You have landed here for some reason but anyways.
 * `{`
 *       `"Bots": "Bread",`
 *       `"Bread": "A multi-purpose discord bot that do multi-purpose stuff like being a multi-purpose discord bot and so much more!",`
-*`}`
+* `}`
 
 **SOCIALS**
 * `{`
 *    `"Socials": "Discord, Reddit",`
 *    `"Discord": "milkhype#4732",`
 *    `"Reddit": "u/milkhype235"`
-*`}`
+* `}`
 
 **MOTTO**
 * *If life gives you knowledge, use it!*
