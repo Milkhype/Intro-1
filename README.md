@@ -24,4 +24,4 @@ Greetings! You have landed here for some reason but anyways.
 
 **MOTTO**
 * *If life gives you knowledge, use it!*
-* * a² + b² = c² *
+* a² + b² = c²
